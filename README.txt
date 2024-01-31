@@ -7,3 +7,7 @@ Hello Git and Github
 3. Results
 4. Discussion
 5. Conclusion
+
+Merge
+1. Fast-foward
+2. Three-way
