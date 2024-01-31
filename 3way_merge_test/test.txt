@@ -1,4 +1,0 @@
-Three way merge
-
-In Git, when you try to merge a feature branch to the main branch, and if the head of the 
-main branch is not in the history path of the feature branch, then Git does a three-way merge. 
