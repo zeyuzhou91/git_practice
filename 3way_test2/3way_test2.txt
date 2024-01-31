@@ -1,0 +1,5 @@
+Three-way merge
+
+Git has two kind of merges: fast-forward and three-way. 
+
+What is there are conflicts?
